@@ -11,7 +11,6 @@ I'm a big Fan of Cloud Infrastructure and the tooling around them.
 ## Certificates
 
 [![CKA Badge](https://img.shields.io/badge/-Certified_Kubernetes_Administrator-326CE5?style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/21e0b812-09ff-4095-ad2a-0143911a7733/public_url)](https://www.credly.com/badges/21e0b812-09ff-4095-ad2a-0143911a7733/public_url)
-
 [![CKAD Badge](https://img.shields.io/badge/-Certified_Kubernetes_Application_Developer-326CE5?style=flat&logo=kubernetes&logoColor=white&link=https://www.credly.com/badges/93632666-4c3a-4e1f-8f87-6057775250fe/public_url)](https://www.credly.com/badges/93632666-4c3a-4e1f-8f87-6057775250fe/public_url)
 
 ## Resources
