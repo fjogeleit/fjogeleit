@@ -1,4 +1,4 @@
-Hi, I'm Frank from Germany, working as Software Developer.
+Hi, I'm Frank from Germany, working as a software developer.
 
 I'm a big fan of Cloud Infrastructure and the tooling around them.
 
@@ -15,7 +15,7 @@ I'm a big fan of Cloud Infrastructure and the tooling around them.
 
 ## Resources
 
-I write hands-on articles on my Blog [CodeYourWorld](https://blog.webdev-jogeleit.de/)
+I write hands-on articles on my blog [CodeYourWorld](https://blog.webdev-jogeleit.de/)
 
 ## Statistics
 
