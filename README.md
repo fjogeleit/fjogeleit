@@ -19,10 +19,6 @@ I write hand on articles on my Blog [CodeYourWorld](https://blog.webdev-jogeleit
 
 ## Statistics
 
-### GitHub
-
 [![Franks github stats](https://github-readme-stats.vercel.app/api?username=fjogeleit&show_icons=true&theme=dark)](https://github.com/fjogeleit)
-
-### Lanaguages
 
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fjogeleit&hide=html&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=fjogeleit&hide=html&layout=compact&theme=dark)
